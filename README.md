@@ -1,4 +1,4 @@
-TheWizardsBook
+# The Wizard's Book
 
 The Wizard's Book is a 3 level game created in Netbeans with Java as part of a module in my first year of university. It was built in 3-4 weeks using some Java features which are explained below. Please feel free to download the source files using the button to the right. Below is an excerpt from a critical evaluation essay required as part of the module.
 
